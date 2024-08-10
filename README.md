@@ -1,7 +1,3 @@
-Certainly! Here’s a sample `README.md` file for your GitHub repository:
-
----
-
 # Blind Assistant
 
 A desktop application that combines text-to-speech (TTS), speech-to-text (STT), and PDF reading functionalities. The application uses a graphical user interface (GUI) built with Tkinter and integrates with text-to-speech and speech recognition libraries to assist visually impaired users.
